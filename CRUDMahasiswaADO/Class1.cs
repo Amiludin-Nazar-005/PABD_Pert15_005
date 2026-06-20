@@ -15,6 +15,6 @@ namespace CRUDMahasiswaADO
         public string Alamat { get; set; }
         public string NamaProdi { get; set; }
         public DateTime TanggalDaftar { get; set; }
-
+        
     }
 }
