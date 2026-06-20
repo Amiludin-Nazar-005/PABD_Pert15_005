@@ -25,7 +25,7 @@ namespace CRUDMahasiswaADO
         {
             InitializeComponent();
         }
-
+        
         private void Form2_Load(object sender, EventArgs e)
         {
             dtpTanggalMasuk.Format = DateTimePickerFormat.Custom;
